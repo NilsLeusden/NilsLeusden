@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NilsLeusden
-- I’m currently learning C/C++/Lua and hopefully more soon?
+- I’m currently learning C/C++/Lua/JavaScript and hopefully more soon?
 - 📫 How to reach me -> (no reason to yet)
 
 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
