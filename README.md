@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @NilsLeusden
-- I’m currently programming in:
+👋 Hi, I’m Nils Leusden.
+
+I’m currently programming in:
 - C
 - C++
 - C#
 - Lua
 - JavaScript
+
+
 And more soon?
 - 📫 How to reach me -> (no reason to yet)
 
